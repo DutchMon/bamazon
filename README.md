@@ -13,3 +13,5 @@ Create CMD line app to take user input to select and purchase items from a list.
 ![alt text]https://github.com/DutchMon/bamazon/blob/master/images/5.png
 
 ![alt text]https://github.com/DutchMon/bamazon/blob/master/images/6.png
+
+![alt text]https://github.com/DutchMon/bamazon/blob/master/images/bamazon.gif
